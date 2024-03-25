@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h3><samp><strong>Faith Tan LH</strong> :v:</samp></h3>
-<p><samp>NUS Business Analytics | ML/AI & Data Science Enthusiast | Lofi Lover</samp></p>
+<p><samp>NUS Business Analytics | ML/AI & Data Enthusiast </samp></p>
 
 ![Professional LinkedIn Banner](https://github.com/faithtanlh/faithtanlh/assets/99934770/0e131516-74a9-4278-aab5-daa9a558a75d)
 
